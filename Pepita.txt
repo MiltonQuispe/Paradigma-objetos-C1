@@ -11,7 +11,7 @@ object pepita
   }
 }
 
-object pepito
+object norita
 {
  var energia=120
  method comer(comidaGramos)
